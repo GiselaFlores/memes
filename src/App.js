@@ -1,5 +1,5 @@
 import './App.css';
-import Descargado from './Componentes/Descargado';
+import Cookies from './Componentes/Cookies';
 import Imgmeme from './Componentes/Imgmeme';
 
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
     
-    <Descargado/>
+    <Cookies/>
     <Imgmeme />
     
 
